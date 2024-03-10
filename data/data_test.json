@@ -1,0 +1,52 @@
+{
+    "train_sum012": {
+        "original_text": "If the Customer is in charge of the transportation, in case of intracommunity supply or exportation directly to a country outside the European Union, the Customer will have to provide to the Seller documentation for VAT purposes (proof of transportation and/or import declaration) to justify such intracommunity supply or exportation. Irrespective of the applicable Incoterm, if Products are exported directly to a country outside the European Union, the Seller will provide appropriate export customs documentation to the Customer or its designated freight forwarder. The Customer guarantees correct closure of the related customs procedure in due time on leaving the European Union or the country of dispatch. In case of non-compliance, the Customer shall be liable for any additional costs and charges imposed on the Seller by the national tax administration.",
+        "reference_summary": "If the Customer is in charge of the transportation or in case of exportation to a country outside the European Union, the Customer is responsible for providing to the Seller documentation as well as export customs documentation.",
+        "uid": "train_sum012"
+    },
+    "train_sum082": {
+        "original_text": "However, in all cases, should the Seller elect to choose a local court jurisdiction due to arbitration not being adapted to the specific nature of the dispute, in particular the need for immediate injunctive relief or to recover sums due, then such local court will be competent to settle the dispute.",
+        "reference_summary": "However, if the Seller choose a local court jurisdiction, then such local court will be competent to settle the dispute.",
+        "uid": "train_sum082"
+    },
+    "train_sum0378": {
+        "original_text": "Supplier shall ensure that the foregoing provisions are included in all contracts to be entered into with its subcontractors according to Article 6 “Subcontracting” of the purchase order.",
+        "reference_summary": "Supplier shall ensure that the foregoing provisions are included in all contracts.",
+        "uid": "train_sum0378"
+    },
+    "train_sum036": {
+        "original_text": "Unless a major deviation from the specification is found during the Customer’s acceptance, the Customer shall accept the Helicopters as being in conformity with the contractual specifications. The acceptance shall be acknowledged by the Customer's signature of an acceptance certificate, designated as “Acceptance Protocol” and/or “Acceptance and Transfer of Ownership Protocol”. As indicated in the Ready for Acceptance notice, if the acceptance certificate is not signed within the above acceptance time period, and without such absence of signature being duly justified in writing explaining the precise reason of the rejection and the contractual grounds thereof, or if the Customer does not attend the acceptance procedure, the acceptance shall be deemed to have been granted by the Customer after the above mentioned time period.",
+        "reference_summary": "Unless a major deviation from the specifications is found during the acceptance activities, the Customer accepts the Helicopter as being in conformity with the contract through the Customer’s signature of an acceptance certificate. If it is not signed within the acceptance time period (or if the absence of signature isn’t duly justified), the acceptance shall be deemed granted.",
+        "uid": "train_sum036"
+    },
+    "train_sum0305": {
+        "original_text": "Unless otherwise specified, the STC is sold to the Customer with the certification(s) as listed in the catalog and specified in the offer. It is the responsibility of the Customer to make sure that such certification(s) is(are) acceptable by its competent airworthiness authority before the installation of the kit. The Seller will provide all reasonable support to the Customer for the additional certification or validation of the existing certification(s) at the latter’s sole expense on a time and material basis.",
+        "reference_summary": "Unless otherwise specified, STC is sold to the Customer as specified in the catalog and the offer. The Customer must make sure that STC are airworthiness-compliant before it is installed. At the Customer’s expenses, the Seller will provide reasonable support to certify the kit.",
+        "uid": "train_sum0305"
+    },
+    "train_sum094": {
+        "original_text": "The provisions of the confidentiality, intellectual property, liability, data exchange, applicable law and dispute resolution articles of the Contract shall survive and continue to have effect after the termination or expiry for any reason whatsoever of the Contract, and for a period of thirty (30) years thereafter.",
+        "reference_summary": "The provisions regarding confidentiality, IP, liability, data exchange, applicable law and dispute resolution shall survive and continue to have effect after the termination of the Contract for 30 years.",
+        "uid": "train_sum094"
+    },
+    "train_sum0182": {
+        "original_text": "The Customer’s Data loaded via the SaaS and/or the DaaS are hosted on a cloud and also on secured data platform. The conditions of the data access and protection are described in the GCU of the SaaS and/or the DaaS. The Customer declares to be fully aware of and authorizes expressly the Seller to store its Data on the cloud and also on secured data platform.",
+        "reference_summary": "The Customer’s Data loaded on the SaaS and/or DaaS are hosted on a cloud and a secured data platform. The conditions to access it are described in the GCU of the SaaS and/or DaaS. The Customer agrees to such storage of Data.",
+        "uid": "train_sum0182"
+    },
+    "train_sum0390": {
+        "original_text": "The Supplier shall not assign or transfer any of its benefits, rights, remedies and/or obligations under the purchase order to a third party without the prior written consent of the Purchaser.",
+        "reference_summary": "The Supplier shall not assign or transfer any of its rights to a third party without the written consent of the Purchaser.",
+        "uid": "train_sum0390"
+    },
+    "train_sum0413": {
+        "original_text": "Neither Party shall be entitled to assign, contribute or transfer, either directly or indirectly, to any third party, any of its rights and obligations in connection with this Loan Agreement, without the other Party’s prior written consent.",
+        "reference_summary": "Neither Party shall be entitled to assign, contribute or transfer, either directly or indirectly, to any third party, its rights and obligations without the other Party’s prior written consent.",
+        "uid": "train_sum0413"
+    },
+    "train_sum0128": {
+        "original_text": "The Seller grants to the Customer a non-exclusive, non-transferable and free licence to use any software used during the training session exclusively.",
+        "reference_summary": "The Seller grants the Customer a non-exclusive, non-transferable and free licence to the software used during the training session.",
+        "uid": "train_sum0128"
+    }
+}

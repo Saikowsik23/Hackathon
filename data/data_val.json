@@ -1,0 +1,102 @@
+{
+    "train_sum067": {
+        "original_text": "The total and cumulated liability of the Seller due to any and all causes whatsoever, whether based on breach of contract or otherwise, shall in no event exceed in aggregate an amount equivalent to ten per cent (10%) of the total net Contract price (excluding taxes) or in case a specific Order is passed and the triggering event of liability relates to that Order, ten per cent (10%) of the total net Order price (excluding taxes)",
+        "reference_summary": "The liability of the Seller can’t exceed 10% of the total net of the contract price.",
+        "uid": "train_sum067"
+    },
+    "train_sum0372": {
+        "original_text": "Supplier shall report immediately to the Purchaser any violation of applicable laws and regulations with respect to the execution and/or the performance of the purchase order by itself or its affiliates, subsidiaries, executives, employees, agents or any individuals or companies that may be involved in performing the purchase order.",
+        "reference_summary": "Supplier shall report immediately to the Purchaser any violation of applicable laws and regulations.",
+        "uid": "train_sum0372"
+    },
+    "train_sum028": {
+        "original_text": "The Customer that has its civil helicopter registered in a country under EASA regulation is responsible for any task related to the management of the continuing airworthiness of the helicopter or shall transfer this obligation by signing a contract with a CAMO in order to ensure the proper accomplishment of the airworthiness management activities in accordance with the regulations in force (Part M/ Subpart G). Upon signature of the Contract with the Seller, the Customer shall indicate who will assume the responsibility of the CAMO.",
+        "reference_summary": "If the Customer has its civil helicopter registered in a country under EASA regulation, it is responsible for the continuing airworthiness of the helicopter. It may transfer this obligation through a CAMO contract.",
+        "uid": "train_sum028"
+    },
+    "train_sum059": {
+        "original_text": "For Contracts governed by German law, the German legal warranty (Sachmängelhaftung) supersedes the contractual warranty conditions described here above for the first twelve (12) months. During this period, and provided that the German legal warranty is applicable, the Seller may elect to repair or replace the defective Products.",
+        "reference_summary": "For Contracts governed by German law, the German legal warranty supersedes the contractual warranty for the first 12 months.",
+        "uid": "train_sum059"
+    },
+    "train_sum0344": {
+        "original_text": "Request the Purchaser to complete an end user statement as required by the relevant authority or as provided by the Purchaser.",
+        "reference_summary": "Request the Purchaser to complete an end user statement.",
+        "uid": "train_sum0344"
+    },
+    "train_sum043": {
+        "original_text": "Until the transfer of risks to the Customer, the Seller shall maintain for the activities to be performed by the Seller an insurance coverage, scope, limits of cover and duration of which are as wide as what is usually practiced in the aviation industry.",
+        "reference_summary": "Until the transfer of risks, the Seller shall maintain an insurance coverage (as is usually practice in the aviation industry).",
+        "uid": "train_sum043"
+    },
+    "train_sum050": {
+        "original_text": "As soon as possible but no later than fifteen (15) calendar days after the discovery of a defect, the Customer shall furnish to the Seller, by using a warranty claim form provided by the Seller, the full details of its claim and the basis thereof. As soon as it receives the said form, the Seller will forward to the Customer a warranty claim acknowledgment and a RMA form. Within fifteen (15) calendar days following the receipt of such documents the Customer shall return the allegedly defective Parts to the Seller. If the Customer fails to return the allegedly defective Parts in due time, the Seller reserves the right to invoice the replacement Parts which have been ordered or produced for the Customer at the price stated in the relevant Seller’s price list in force, or in the relevant Quotation.",
+        "reference_summary": "Within 15 days after the discovery of a defect, the Customer shall provide to the Seller, through a warranty claim form, the details of its claim and its basis. The defective Parts shall then be returned to the seller within 15 days of the receipt of such documents. If it fails to do so, the Seller reserves the right to invoice the replacement Parts.",
+        "uid": "train_sum050"
+    },
+    "train_sum0256": {
+        "original_text": "The Customer shall be responsible for the compliance by the trainees of the pre-requisites relevant to the courses applied for. The registration of each trainee will be done in preference using the “on line” form before entering the course. The Seller reserves the right to refuse to train any pilot or technician not meeting those requirements or to provide additional training and/or professional translation services as required, at prevailing rates. Personal information required from the Customer’s representatives in order to be granted access to the Seller’s premises shall be forwarded by the Customer to the Seller at least four (4) weeks prior to their date of arrival.",
+        "reference_summary": "Customer is responsible for compliance of the trainees with these prerequisites. The Seller may refuse any pilot or technician not meeting the requirements. Access to the Seller’s premises requires granting access to personal information. Customer agrees to forward this information at least 4 weeks before the date of arrival of the trainees.",
+        "uid": "train_sum0256"
+    },
+    "train_sum068": {
+        "original_text": "Each Party shall be responsible for death or bodily injury arising to its own personnel, whatever the cause. The Parties therefore waive the right to any claim against the other in this respect.",
+        "reference_summary": "Each Party is liable for death or bodily injury arising from its own personnel, whatever the cause.",
+        "uid": "train_sum068"
+    },
+    "train_sum041": {
+        "original_text": "If the Customer fails to pick up its Products within the above mentioned periods of time: The Customer shall reimburse the Seller any expenses incurred by the Seller such as maintenance, storage, insurance, taxes and associated damages and interest if any, levies, etc. The Seller may terminate the Contract as per article 14.1.1 and shall not be liable for any loss or damages incurred by the Customer as a consequence of such termination.",
+        "reference_summary": "If the Customer fails to pick up its Products within the above mentioned periods of time, it shall reimburse the Seller any expenses incurred for maintenance, storage, insurance, taxes, etc. The Seller may terminate the Contract without any liability.",
+        "uid": "train_sum041"
+    },
+    "train_sum0118": {
+        "original_text": "Any trainee assigned by the Customer to follow a training session shall have the prerequisite experience and the appropriate qualification as described in the syllabus of the training courses provided by the Seller. The Customer shall be responsible for the proficiency level of the trainees. The Seller reserves the right to refuse to train any pilot or technician not meeting those requirements or to not deliver the course certificate for the said trainee.",
+        "reference_summary": "Trainees assigned by the Customer must have the necessary prerequisite experience and qualifications. The Customer is responsible for the proficiency of its trainees. The Seller may refuse to train pilots or technicians not meeting those requirements or not deliver the course certificate.",
+        "uid": "train_sum0118"
+    },
+    "train_sum0276": {
+        "original_text": "These Technical Data are granted to the Customer personally and can not be transferred or assigned to any third party.",
+        "reference_summary": "Technical Data are granted personally and may not be transferred or assigned.",
+        "uid": "train_sum0276"
+    },
+    "train_sum0220": {
+        "original_text": "The standard exchange is based on the effective availability of an exchange Part. If the Part is available, the Customer’s Order shall be recorded by the Seller, then the Part will be made available within forty eight (48) hours. If the Part is not available under standard exchange Service, the Seller could propose alternate solution on Customer’s request. To improve Part availability, the Customer is encouraged to forecast the exchange of a Part requiring an overhaul at least two (2) months in advance.",
+        "reference_summary": "The exchange is subject to the availability of the Part. If the Part is not available, the Seller may, on Customer’s request, propose an alternate solution. If the Part is available, it will be made available within 48 hours. Customer is encouraged to forecast its Parts needs at least 2 months in advance.",
+        "uid": "train_sum0220"
+    },
+    "train_sum0130": {
+        "original_text": "The Seller retains all proprietary rights in all designs, engineering details and other data or information pertaining to the software and the training manuals. Unless prior written approval is obtained from the Seller, all data and information received from the Seller shall be held in confidence by the Customer trainee. They shall not at any time be made available or disclosed in any form to any person or entity other than the Customer trainee(s) and employees and only to the extent that such disclosure is reasonably necessary to the Customer’s use of the Helicopter.",
+        "reference_summary": "The Seller retains all proprietary rights in matters of engineering, designs, software and training manuals. Unless prior written approval is obtained from the Seller, all data and information received from Seller must be held in confidence by the trainee. They shall not be disclosed to anyone other than the trainee and the Customer’s employees. The disclosure should only be reasonably necessary.",
+        "uid": "train_sum0130"
+    },
+    "train_sum0143": {
+        "original_text": "In case of flight Training Services performed on a Helicopter provided by and at a location designated by the Seller: The Seller shall be responsible for insuring the Helicopter and its personnel. The maintenance and release in service of the Helicopter remain under the responsibility of the Seller. The Customer shall be responsible for insuring its personnel.",
+        "reference_summary": "If the flight training is done on a helicopter and location of the Seller: Seller is responsible for insuring the Helicopter and its personnel; Seller is responsible for the maintenance and release in service of the Helicopter; Customer must insure its own personnel.",
+        "uid": "train_sum0143"
+    },
+    "train_sum096": {
+        "original_text": "Any variation or modification of the Contract shall be made in writing through an amendment and signed by duly authorised representatives of each Party.",
+        "reference_summary": "Any modification to the contract shall be put in writing and shall be signed by both Parties.",
+        "uid": "train_sum096"
+    },
+    "train_sum0176": {
+        "original_text": "User means the Administrator and any person for which the Administrator has granted the access to the SaaS. A User is a person using the SaaS through the associated Internet website and/or having downloaded the SaaS on its adequate mobile device thanks to its Administrator when applicable.",
+        "reference_summary": "User means the Administrator and any person that has been granted access to the SaaS. Thanks to the Administrator, it uses the SaaS through an Internet website or it downloaded the SaaS on a mobile device.",
+        "uid": "train_sum0176"
+    },
+    "train_sum0122": {
+        "original_text": "All the training courses and the appropriate documentation will be provided in English, unless otherwise agreed in the Contract.",
+        "reference_summary": "Training courses and documentation will be provided in English unless otherwise agreed in the Contract.",
+        "uid": "train_sum0122"
+    },
+    "train_sum069": {
+        "original_text": "To the extent permitted at law, the Seller’s obligations and liabilities and the Customer’s rights and remedies as set forth in the Contract are exclusive and are in replacement of any and all other remedies under law or otherwise.",
+        "reference_summary": "To the extent permitted at law, the Seller’s obligations and liabilities and the Customer’s rights and remedies set forth in the Contract are exclusive and are in replacement of any and all other remedies under law or otherwise.",
+        "uid": "train_sum069"
+    },
+    "train_sum0267": {
+        "original_text": "The schedule, dates and languages of the courses will be mutually agreed upon no later than six (6) months prior to delivery of the first Helicopter to the Customer or at the date of the signature of the Contract if the delivery time is less than six (6) months.",
+        "reference_summary": "Schedule, dates and languages of the courses will be mutually agreed upon no later than six months prior to delivery of the first Helicopter to the Customer or at the date of the signature of the Contract if the Helicopter must be delivered within 6 months.",
+        "uid": "train_sum0267"
+    }
+}
